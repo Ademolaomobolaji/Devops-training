@@ -12,7 +12,10 @@ Create a file named commented_script.sh
 # This is a single-line comment in Bash Script
 echo "Hello, you are learning Bash Scripting on DAREY.IO!" # This is a line of code to print "Hello, you are learning Bash Scripting" - the comment started from the #
 
+
 # This is another way to create a comment, 
-# a multi-line comment. Each line
-# is prefixed with a # symbol.
+
+#a multi-line comment. 
+#Each line
+#is prefixed with a # symbol.
 echo "Here is an actual code that gets executed" 
